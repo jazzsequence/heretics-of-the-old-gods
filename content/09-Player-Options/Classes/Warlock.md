@@ -1,0 +1,26 @@
+---
+type: reference
+tags: [player-options, class]
+---
+
+# WARLOCK
+
+Warlocks in [[Nuxan]] have made direct transactional arrangements with specific entities. Not general magical traditions — specific deals, with specific beings, that have opinions about how the arrangement should go and what you owe. The patron matters. It has intentions. It has a read on you, and it has been doing this longer than you have.
+
+## Campaign Homebrew Patrons
+*See individual subclass files for full mechanics.*
+
+- **[[The Ur'Shakthu Patron]]** *(Campaign homebrew)* — The ancient blue dragon coiled beneath the Hellcatch, vast enough that the storms above are its exhaled breath. [[Ur'Shakthu]]'s warlocks are called Stormbound. They're given information and capability in exchange for serving as the dragon's eyes in a world it hasn't physically inhabited since the Calamity. The exchange appears transactional. Whether Ur'Shakthu's ultimate intentions align with its agents' survival is the central ambiguity of the arrangement.
+- **[[The Azgurathul Patron]]** *(Campaign homebrew)* — Something pressed through a gap in the fabric of the planes a thousand years ago and has been bleeding heat into the desert ever since. [[Azgurathul]]'s warlocks are Forgekissed who pushed further than worship — who opened the channel wider than it was meant to go and found something on the other side that answered. Not because it chose to. The power is real. The cost accumulates. They keep going back because they can't imagine who they are without it anymore.
+- **[[The Sorcerer-King Patron]]** *(Campaign homebrew, adapted from Apocalyptic Subclasses UA)* — A tyrant's power channeled through a pact. Choose your patron: [[Thesik]], [[Barani]], [[Kosveret]], or [[J'mon Sa Ord]]. Each has a specific relationship to Nuxan's power structures and a specific agenda for what their herald is supposed to accomplish.
+
+## Published Patrons
+
+- **Fiend Patron** *(PHB 2024)* — The infernal hierarchy predates the [[Exodus]] by millennia and survived it intact. A fiend's pact is possible in Nuxan, but requires backstory explaining how contact was made — the kind of entity that grants Fiend warlock power doesn't come knocking without reason.
+- **Great Old One Patron** *(PHB 2024)* — Cosmic intelligence from outside the normal order of things, utterly indifferent to the concerns of gods or their absence. In a world the gods left behind, a Great Old One warlock occupies a specific position: the patron was never part of the divine system that collapsed, so the Exodus is irrelevant to the arrangement.
+- **The Undead Patron** *(Van Richten's Guide to Ravenloft)* — The [[Shadowfell]] has been accumulating powerful dead for a thousand years without governance. The entities that have built power bases in there are now potential patrons for anyone with the specific recklessness to reach into that plane and make an arrangement. The pact transforms the warlock toward undeath over time. This is the advertised cost.
+- **The Fathomless Patron** *(Tasha's Cauldron of Everything)* — The patron is [[Uk'otoa]] specifically — the sealed leviathan-god beneath the Lucidian Ocean. A Fathomless warlock in Nuxan isn't just making a pact with a deep-sea entity. They're involved in whatever Uk'otoa is building toward.
+- **The Hexblade Patron** *(Xanathar's Guide to Everything)* — A cursed weapon contains an entity. The arrangement is brokered through the weapon itself. Work with your DM on what the weapon-entity actually is — in Nuxan, this could be a relic of the old gods, an Aeorian-period artifact with something trapped inside it, or something that came up from the ruins and found a new home.
+- **The Parasite Patron** *(Heliana's Guide to Monster Hunting)* — The patron lives inside your body. It manifests through you — claws, teeth, tentacles, additional biological structures that emerge when you call on it. It's invested in your survival because your survival is literally its survival, which makes it more reliable than most entities and considerably more difficult to ignore.
+- **The Great Fool Patron** *(The Crooked Moon)* — A powerful otherworldly being of mockery and misrule whose designs are genuinely incomprehensible and whose sense of humor does not operate on human logic. Great Fool warlocks are granted power through an arrangement the patron finds funny. Whether what it finds funny is the patron's goals or the warlock's situation is not something the Great Fool chooses to clarify.
+- **The Horned King Patron** *(The Crooked Moon)* — Wild, fey-adjacent, the beast that stalks the deepest woods. The Feywild is not easily reached from Nuxan — it's sealed off, diminished, being slowly drained by the [[Luxon]]'s light-beacon infrastructure — which means a Horned King patron requires a backstory explaining how contact was established. The pact is sealed in blood. The patron has a coven-forming capstone. Neither of these things is metaphorical.

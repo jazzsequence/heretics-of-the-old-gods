@@ -1,0 +1,19 @@
+---
+type: reference
+tags: [player-options, class]
+---
+
+# RANGER
+
+The Hellcatch Valley is not survivable by accident. The desert kills through heat, dehydration, dust storms that collapse visibility to nothing, creatures from the Hollows migrating upward with increasing frequency, and raider bands who know the terrain better than any caravan. Rangers are the people who learned to read that environment well enough to navigate it — desert guides, Deathwish Run outriders, scouts for scrapper crews working the Flats.
+
+## Available Subclasses
+
+- **Beast Master** *(PHB 2024)* — The creatures of the Hellcatch are adapted to the snarl's influence, and a Beast Master's companion in this setting is something that has been shaped by that environment in ways that aren't always obvious until they matter.
+- **Gloom Stalker** *(PHB 2024)* — The [[Shadowfell]] bleeds into [[Bassuras]] in the dark. The ungoverned dead are louder at night, and the boundary between planes is thinner than it used to be. A Gloom Stalker in [[Nuxan]] is tracking things that move in that bleed — which is increasingly most of the dangerous things.
+- **Hunter** *(PHB 2024)* — Adaptive, practical, built for varied threats. In the Hellcatch, the threat varies considerably — raiders, Hollows fauna, rival scrapper crews, [[Court of Dust]] enforcement — and a Hunter's generalist toolkit handles all of it.
+- **Monster Slayer** *(Xanathar's Guide to Everything)* — Specialist creature hunters in a setting where the creatures are getting stranger. The Hollows beneath Bassuras have been producing things that don't match any pre-[[Exodus]] bestiary, and a Monster Slayer's ability to identify and exploit specific weaknesses is increasingly valuable.
+- **Swarmkeeper** *(Tasha's Cauldron of Everything)* — A swarm of nature creatures as extensions of the ranger's will. In the Hellcatch, "nature creatures" runs the full range from conventional insects to things that have adapted to the snarl's influence in ways that make them useful and alarming in roughly equal measure.
+- **Trapper** *(Heliana's Guide to Monster Hunting)* — Prepared battlefield as primary combat philosophy. Physical and magical traps, thieves' tools proficiency, the discipline of controlling how and where a fight happens rather than just surviving it. In a city where the geography is layered with ruins and narrow underground passages, a Trapper's ability to shape the engagement is significant.
+- **Grim Harbinger** *(The Crooked Moon)* — Ghostly hounds, death-adjacent tracking, a discipline that emerged from sustained contact with the boundary between the living world and the [[Shadowfell]]. In Nuxan, the boundary is thinner than it was and the hounds are louder. A Grim Harbinger in Bassuras is a specific kind of unsettling to encounter in an alley.
+- **Guardian** *(Hexbound)* — This tradition works with ancestor spirits rather than nature spirits — the dead who are invested in specific places and specific people, called for particular purposes. In Nuxan's ungoverned [[Shadowfell]], establishing those relationships requires care, because what you're reaching toward has had a thousand years to become something other than what it started as.

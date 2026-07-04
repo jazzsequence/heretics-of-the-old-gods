@@ -1,0 +1,26 @@
+---
+type: reference
+tags: [player-options, class]
+---
+
+# DRUID
+
+The ecological collapse that followed the [[Exodus]] hit hardest in places that had relied on divine intervention to stay viable. Forests the gods maintained are dead. Rivers that ran under divine influence don't anymore. The land that remains is harder, stranger, and in several cases actively hostile to the species that once depended on it.
+
+Druids in [[Nuxan]] are the people who stayed anyway. Some are [[Verdant Covenant]] members working to reclaim terrain the [[Luxon]]'s light is quietly siphoning — they've found evidence that the planar energy powering Luxon beacons is drawn from the Feywild, and a thousand years of that is not without consequence. Others have moved past preservation into something darker: accepting the collapse, embodying it, drawing power from the fact of what's ending rather than fighting it. Both positions are coherent. Both cost something.
+
+## Available Subclasses
+
+- **Circle of the Moon** *(PHB 2024)* — Wild Shape in Nuxan's Hollows means becoming the things the Hollows produce — creatures that have been adapting to the snarl's influence for a millennium. A Moon Druid who wild shapes near the Flats may not become exactly what they intended.
+- **Circle of the Land** *(PHB 2024)* — Desert, primarily. The Hellcatch has its own arcane ecology built around the snarl's leyline bleed, and a Land Druid who chose the desert is drawing on that specific, destabilized substrate.
+- **Circle of the Sea** *(PHB 2024)* — The currents that run through the Lucidian Ocean carry [[Uk'otoa]]'s influence at increasing depth. A Sea Druid in Nuxan is working with water that has things in it.
+- **Circle of Stars** *(PHB 2024)* — Ancient star-lore that predates the gods, which means it predates the Exodus and survived it intact. A Stars Druid is reading a cosmological system that the [[Luxon]] hasn't managed to suppress or reframe, because the stars don't care about theology.
+- **Circle of Spores** *(Guildmasters' Guide to Ravnica / Tasha's Cauldron of Everything)* — Decomposition as the other face of growth. In a world where ecological systems collapsed and what replaced them is stranger and less legible, spore druids occupy the transition between what died and what's growing through it.
+- **Circle of Wildfire** *(Tasha's Cauldron of Everything)* — The Hellcatch burns. Wildfire druids don't prevent it — they manage the burn, understanding that destruction without renewal is just destruction, and that the fire has to go somewhere either way.
+- **Circle of the Blighted** *(Tal'Dorei Campaign Setting Reborn)* — The ecological corruption that followed the Exodus is most visible in the Blighted's body. They don't fight what the land has become. They embody it, and they use it, and they are under no illusion that this is without cost.
+- **Circle of the Old Ways** *(The Crooked Moon)* — Primal forest traditions that predate the Exodus and survived in isolated communities that stayed outside the divine system's collapse. In Nuxan these practitioners are rare, operating in the few places where something resembling the old world ecology persists.
+- **Circle of Wicker** *(The Crooked Moon)* — Folk craft tradition using animated effigies built from whatever's available. In the Hellcatch, "whatever's available" means scrap, bone, dried plant matter, and occasionally arcanotech components someone pulled from the ruins. The effigies work regardless.
+- **Circle of the Brew** *(Hexbound)* — Botanical knowledge and herbal practice treated as druidic discipline. In [[Bassuras]], where the [[Luxon]] mission house dispenses medicine and the [[Court of Dust]] controls supply chains, a Brew Druid with access to remedies and compounds that don't come through official channels is in considerable demand.
+- **Circle of Cataclysms** *(Scavenger)* — These druids have accepted that the world is ending — not as defeat, but as fact — and found in that acceptance a specific kind of power. The disasters they channel are real: floods, earthquakes, storms, heat. The desert is not metaphor for them. The desert is the point.
+- **Circle of Preservation** *(Apocalyptic Subclasses UA)* — Someone has to work against the collapse instead of accepting it. Preservation druids tend active sanctuaries — literal zones of maintained life in terrain that has given up — and they will defend those zones with the same ferocity as anyone on this list. The work is the opposite of passive.
+- **Circle of the Hive** *(Heliana's Guide to Monster Hunting)* — Arthropod symbiotes living in and on the druid's body. Wild Shape becomes the swarm rather than a single creature. In Bassuras, practitioners are identifiable by the quiet buzz that accompanies them and the way other people's skin crawls in their vicinity.
