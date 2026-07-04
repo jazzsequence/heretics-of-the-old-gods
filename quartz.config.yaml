@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Heretics of the Old Gods
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Cinzel
+      body: EB Garamond
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#efe6d8"
+        lightgray: "#ddd0b8"
+        gray: "#9c8a6a"
+        darkgray: "#3d2f26"
+        dark: "#241a14"
+        secondary: "#7a2e2e"
+        tertiary: "#5c4a72"
+        highlight: rgba(122, 46, 46, 0.12)
+        textHighlight: "#c9a44788"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#15111c"
+        lightgray: "#2a2430"
+        gray: "#6b5f72"
+        darkgray: "#c9bfc7"
+        dark: "#efe9e2"
+        secondary: "#b08d57"
+        tertiary: "#8c2f39"
+        highlight: rgba(176, 141, 87, 0.1)
+        textHighlight: "#8c2f3966"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -109,7 +109,7 @@ plugins:
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
-    enabled: true
+    enabled: false
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -266,7 +266,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd

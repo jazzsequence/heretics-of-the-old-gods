@@ -35,6 +35,25 @@ function isHidden(name) {
   return name.startsWith(".")
 }
 
+// Mirrors @quartz-community/utils' slugifyPath exactly (quartz/util/path.ts
+// re-exports it), so slugs recorded here match the URLs Quartz actually
+// generates for public pages.
+function slugifyPath(relPathNoExt) {
+  return relPathNoExt
+    .split(path.sep)
+    .map((segment) =>
+      segment
+        .replace(/\s/g, "-")
+        .replace(/&/g, "-and-")
+        .replace(/%/g, "-percent")
+        .replace(/\?/g, "")
+        .replace(/#/g, "")
+        .replace(/[<>:"|*]/g, "")
+        .toLowerCase(),
+    )
+    .join("/")
+}
+
 function listMarkdownFiles(relDir) {
   const absDir = path.join(SRC, relDir)
   const entries = fs.readdirSync(absDir, { withFileTypes: true })
@@ -306,6 +325,16 @@ function filterMarkdown(raw, publicIndex) {
   return `---${frontmatterText}\n---\n${processedBody}`
 }
 
+// Notes excluded either by folder or by secret: true, recorded as the slugs
+// Quartz would have generated for them had they been published. Written out
+// as content/secret-manifest.json so the 404 page can tell "this is GM-only
+// material" apart from an ordinary broken link/typo.
+const secretSlugs = []
+
+function recordExcludedSlug(relPath) {
+  secretSlugs.push(slugifyPath(relPath.replace(/\.md$/i, "")))
+}
+
 function walk(relDir, publicIndex) {
   const absDir = path.join(SRC, relDir)
   const entries = fs.readdirSync(absDir, { withFileTypes: true })
@@ -318,6 +347,9 @@ function walk(relDir, publicIndex) {
     if (entry.isDirectory()) {
       if (EXCLUDED_DIRS.has(entry.name)) {
         console.log(`Skipping excluded folder: ${relPath}`)
+        for (const mdRelPath of listMarkdownFiles(relPath)) {
+          recordExcludedSlug(mdRelPath)
+        }
         continue
       }
       walk(relPath, publicIndex)
@@ -334,11 +366,18 @@ function walk(relDir, publicIndex) {
 
       if (filtered === null) {
         console.log(`Skipping secret note: ${relPath}`)
+        recordExcludedSlug(relPath)
         continue
       }
 
       fs.mkdirSync(path.dirname(outPath), { recursive: true })
       fs.writeFileSync(outPath, filtered)
+
+      // The vault has no root index note; alias Campaign Hub as the site
+      // homepage so visiting the root doesn't 404.
+      if (relDir === "" && entry.name === "Campaign Hub.md") {
+        fs.writeFileSync(path.join(OUT, "index.md"), filtered)
+      }
     } else {
       fs.mkdirSync(path.dirname(outPath), { recursive: true })
       fs.copyFileSync(path.join(absDir, entry.name), outPath)
@@ -351,5 +390,10 @@ const publicIndex = buildPublicIndex()
 fs.rmSync(OUT, { recursive: true, force: true })
 fs.mkdirSync(OUT, { recursive: true })
 walk("", publicIndex)
+
+fs.writeFileSync(
+  path.join(OUT, "secret-manifest.json"),
+  JSON.stringify([...new Set(secretSlugs)].sort()),
+)
 
 console.log(`Filtered vault written to ${OUT}`)

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "quartz-serve",
+      "runtimeExecutable": "/Users/jazzsequence/.nvm/versions/node/v22.22.2/bin/node",
+      "runtimeArgs": ["quartz/bootstrap-cli.mjs", "build", "--serve", "--port", "8210"],
+      "port": 8210
+    }
+  ]
+}
