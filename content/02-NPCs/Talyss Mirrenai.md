@@ -1,16 +1,3 @@
----
-type: npc
-status: unknown
-faction: "[[The Luxon]]"
-location: 
-role: Former Krynn military cadet / Soryn's lost partner
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Talyss Mirrenai
 

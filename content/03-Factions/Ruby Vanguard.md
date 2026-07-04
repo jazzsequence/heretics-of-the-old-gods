@@ -1,17 +1,3 @@
----
-type: faction
-category: guerrilla
-status: dormant
-leader: "[[Ludinus Da'leth]]"
-goal: Free Predathos from Ruidus to destroy the gods
-disposition: hostile
-hq: "[[Ruidus]]"
-secret: false
-aliases: []
-tags:
-  - historical
-created: 2026-06-20
----
 
 # Ruby Vanguard
 

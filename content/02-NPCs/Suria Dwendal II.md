@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[Dwendalian Empire]]"
-location: "[[Rexxentrum]]"
-role: Nominal ruler of the Dwendalian Empire
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Suria Dwendal II
 

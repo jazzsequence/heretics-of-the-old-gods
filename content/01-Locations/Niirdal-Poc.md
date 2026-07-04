@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Rifenmist Jungle]]"
-location_type: city
-faction_control: null
-danger_level: 1
-secret: false
-aliases: [Qoniira]
-tags: [ancient, tetrarchy, elven]
-created: 2026-06-28
----
 
 # Niirdal-Poc
 

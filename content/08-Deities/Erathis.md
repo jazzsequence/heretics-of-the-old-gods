@@ -1,16 +1,3 @@
----
-type: deity
-epithets: ["The Lawbearer", "The Knowing Mistress (via Ioun)", "The Architect"]
-domain: [Order, Civilization, Law, Urban]
-alignment: Lawful Neutral
-alignment_known_to_worshippers: true
-suggested_cleric_domains: [Order, Knowledge, Life]
-symbol: Two-handed bronze balance scale
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Erathis
 

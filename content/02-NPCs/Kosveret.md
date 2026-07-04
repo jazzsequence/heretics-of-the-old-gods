@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[Mind Lords of the Shattered Teeth]]"
-location: "[[Shattered Teeth]]"
-role: Third of the Mind Lords / former god of joy
-pronouns: he/him
-first_appeared: 
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Kosveret
 

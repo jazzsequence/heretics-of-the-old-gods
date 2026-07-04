@@ -1,30 +1,3 @@
----
-type: deity
-epithets:
-  - The Unmoved
-  - The Patient
-  - The First Hunger
-  - The Thirstmaker
-domain:
-  - Desert
-  - Endurance
-  - Consumption
-  - Scarcity
-  - Death by Exposure
-alignment: True Neutral
-alignment_known_to_worshippers: true
-suggested_cleric_domains:
-  - Grave
-  - Nature
-  - Survival (homebrew)
-symbol: A horizon line bisected by a half circle containing a single dot — the line is the horizon, the half circle is the sun or the void or both, and the dot is the person confronting it. The only human element in the symbol, and it is surrounded.
-secret: false
-aliases: []
-tags:
-  - hedge-god
-pronouns: they/them
-created: 2026-06-20
----
 
 # Deshretu
 

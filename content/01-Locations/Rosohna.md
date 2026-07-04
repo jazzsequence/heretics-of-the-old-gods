@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Xhorhas]]"
-location_type: city
-faction_control: "[[Kryn Dynasty]]"
-danger_level: 2
-secret: false
-aliases: ["Ghor Dranas (historical name)"]
-tags: []
-created: 2026-06-20
----
 
 # Rosohna
 

@@ -1,37 +1,23 @@
----
-type: hub
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Session Index
 
 ## All Sessions — Chronological
 
-```dataview
-TABLE session_number, fc-date, real_date, attendees, recap_link
-FROM "06-Sessions"
-SORT fc-date ASC
-```
+| File | session_number | fc-date | real_date | attendees | recap_link |
+| --- | --- | --- | --- | --- | --- |
+| [[Session Index]] |  |  |  |  |  |
 
 ---
 
 ## NPCs Encountered by Session
 
-```dataview
-TABLE session_number, fc-date
-FROM "06-Sessions"
-SORT fc-date DESC
-```
+| File | session_number | fc-date |
+| --- | --- | --- |
+| [[Session Index]] |  |  |
 
 ---
 
 ## Plot Threads Advanced — Full History
 
-```dataview
-TABLE priority, status
-FROM "04-Plot-Threads"
-SORT status ASC, priority DESC
-```
+| File | priority | status |
+| --- | --- | --- |

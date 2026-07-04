@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: "[[Cerberus Assembly]]"
-location: 
-role: Former Archmage of Antiquity, Cerberus Assembly
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Vess DeRogna
 

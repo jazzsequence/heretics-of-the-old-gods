@@ -1,16 +1,3 @@
----
-type: faction
-category: criminal
-status: active
-leader:
-goal: Everything has a price. Secrets are the most valuable.
-disposition: unknown
-hq:
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # The Garrotte Line
 

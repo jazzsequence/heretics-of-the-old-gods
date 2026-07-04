@@ -1,16 +1,3 @@
----
-type: location
-status: discovered
-region:
-  - "[[Wildemount]]"
-location_type: wilderness
-faction_control: null
-danger_level: 3
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Savalirwood
 

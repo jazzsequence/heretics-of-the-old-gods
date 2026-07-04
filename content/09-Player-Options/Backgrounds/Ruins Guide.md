@@ -1,9 +1,3 @@
----
-type: background
-source: homebrew
-tags: [player-options, background]
-created: 2026-06-30
----
 
 # Ruins Guide
 

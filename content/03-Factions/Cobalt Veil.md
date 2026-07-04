@@ -1,16 +1,3 @@
----
-type: faction
-category: scholarly
-status: active
-leader:
-goal: Reconstruct the Archive of the Knowing Mistress, buried beneath the ruins of Rexxentrum.
-disposition: unknown
-hq:
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Cobalt Veil
 

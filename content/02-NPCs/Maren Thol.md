@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: 
-location: "[[Bassuras]]"
-role: Scrapper union leader (deceased) / union member
-pronouns: she/her
-first_appeared: "[[Hook B - The Broken Chain]]"
-secret: false
-aliases: ["Ironwrist"]
-tags: []
-created: 2026-06-20
----
 
 # Maren Thol
 

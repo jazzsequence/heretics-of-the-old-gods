@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: 
-location_type: landmark
-faction_control: 
-danger_level: 3
-secret: false
-aliases: ["The Red Moon", "The Ruddy Moon", "The Bloody Wanderer"]
-tags: []
-created: 2026-06-20
----
 
 # Ruidus
 

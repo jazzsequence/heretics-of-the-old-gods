@@ -1,16 +1,3 @@
----
-type: faction
-category: governmental
-status: active
-leader: "[[Essek Thelyss]]"
-goal: 
-disposition: unknown
-hq: "[[Rosohna]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Den Thelyss
 

@@ -1,16 +1,3 @@
----
-type: deity
-epithets: ["The Storm Lord", "The Lord of Battle"]
-domain: [Strength, Combat, Storms, Competition]
-alignment: Chaotic Neutral
-alignment_known_to_worshippers: true
-suggested_cleric_domains: [Tempest, War]
-symbol: Four bolts of lightning radiating from a point
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Kord
 

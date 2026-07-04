@@ -1,13 +1,3 @@
----
-type: item-lore
-item_type: history
-location: "[[Hellcatch Valley]]"
-owner:
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Hellcatch Slang
 

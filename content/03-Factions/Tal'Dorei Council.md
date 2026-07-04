@@ -1,16 +1,3 @@
----
-type: faction
-category: governmental
-status: active
-leader:
-goal: Fortify borders, rebuild the Emon Arcanum, resist the Consecution War
-disposition: hostile
-hq: "[[Emon]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Tal'Dorei Council
 

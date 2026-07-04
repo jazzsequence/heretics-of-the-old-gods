@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: "[[The Court of Dust]]"
-location: "[[The Ends]]"
-role: Racing syndicate fixer
-pronouns: he/him
-first_appeared: "[[Hook A - Ghost Run]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Torrow
 

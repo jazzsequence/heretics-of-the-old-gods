@@ -1,9 +1,3 @@
----
-type: feat
-source: homebrew
-tags: [player-options, feat, origin-feat]
-created: 2026-06-30
----
 
 # Road Warrior
 

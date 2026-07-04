@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: '"[[Bassuras]]"'
-location_type: landmark
-faction_control: "[[The Court of Dust]]"
-danger_level: 3
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # The Undercarriage
 

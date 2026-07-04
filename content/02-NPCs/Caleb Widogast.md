@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[Cerberus Assembly]]"
-location: "[[Rexxentrum]]"
-role: Former Mighty Nein member / Assembly defector
-pronouns: he/him
-first_appeared: 
-secret: false
-aliases: ["Bren Aldric Ermendrud"]
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Caleb Widogast
 

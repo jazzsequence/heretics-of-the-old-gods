@@ -1,13 +1,3 @@
----
-type: item-lore
-item_type: history
-location: "[[Rexxentrum]]"
-owner:
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Archive of the Knowing Mistress
 

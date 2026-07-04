@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: 
-location: "[[Bassuras]]"
-role: Veteran Deathwish Runner
-pronouns: she/her
-first_appeared: "[[Hook A - Ghost Run]]"
-secret: false
-aliases: ["Cynda Farrow"]
-tags: []
-created: 2026-06-20
----
 
 # Splice
 

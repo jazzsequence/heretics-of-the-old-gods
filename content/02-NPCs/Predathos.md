@@ -1,16 +1,3 @@
----
-type: npc
-status: sealed
-faction: 
-location: "[[Ruidus]]"
-role: Primordial entity imprisoned within Ruidus; consumer of gods
-pronouns: 
-first_appeared: 
-secret: false
-aliases: []
-tags: ["primordial"]
-created: 2026-06-20
----
 
 # Predathos
 

@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Ank'harel]]"
-location_type: landmark
-faction_control: 
-danger_level: 4
-secret: false
-aliases: ["The Drowned City"]
-tags: []
-created: 2026-06-20
----
 
 # Cael Morrow
 

@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: 
-location_type: wilderness
-faction_control: 
-danger_level: 5
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Shadowfell
 

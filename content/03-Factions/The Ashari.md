@@ -1,13 +1,3 @@
----
-type: faction
-category: religious
-status: active
-region: "[[Tal'Dorei]]"
-secret: false
-aliases: []
-tags: [elemental, druidic]
-created: 2026-06-28
----
 
 # The Ashari
 

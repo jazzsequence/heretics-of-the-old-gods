@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: 
-location: "[[Bassuras]]"
-role: Scrapper union member / Maren's closest ally
-pronouns: she/her
-first_appeared: "[[Hook B - The Broken Chain]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Ossa
 

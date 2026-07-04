@@ -1,16 +1,3 @@
----
-type: subclass
-class: Warlock
-subclass_type: Patron
-source: homebrew
-associated_deity:
-practitioner_name: Templar (J'mon Sa Ord variant)
-secret: false
-aliases:
-  - Sorcerer-King Patron
-tags:
-created: 2026-06-20
----
 
 # The Sorcerer-King Patron
 

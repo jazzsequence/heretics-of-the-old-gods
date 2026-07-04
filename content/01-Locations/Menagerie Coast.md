@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: Wildemount
-location_type: wilderness
-faction_control: "[[The Plank King]]"
-danger_level: 3
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Menagerie Coast
 

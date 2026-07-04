@@ -1,16 +1,3 @@
----
-type: faction
-category: guerrilla
-status: active
-leader:
-goal: Disrupt the Luxon's "Light" — believed to be a parasitic force feeding on mortal worship, no different from the gods it replaced.
-disposition: unknown
-hq: "[[The Crimson Shadow]]"
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Children of the Hollow Moon
 

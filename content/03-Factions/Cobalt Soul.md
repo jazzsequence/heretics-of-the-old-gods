@@ -1,19 +1,3 @@
----
-type: faction
-category: scholarly
-status: dormant
-leader: null
-goal: null
-disposition: unknown
-hq:
-  - "[[Rexxentrum]]"
-  - "[[Vasselheim]]"
-secret: false
-aliases: []
-tags:
-  - historical
-created: 2026-06-20
----
 
 # Cobalt Soul
 

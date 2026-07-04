@@ -1,16 +1,3 @@
----
-type: faction
-category: religious
-status: active
-leader:
-goal: Knowledge must be free, even if it damns you.
-disposition: unknown
-hq:
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Whispered Rebellion
 

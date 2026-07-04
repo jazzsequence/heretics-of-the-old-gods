@@ -1,16 +1,3 @@
----
-type: deity
-epithets: ["The Matron of Ravens", "The Duskmaven", "The Lady of Death"]
-domain: [Death, Fate, Winter, Twilight]
-alignment: Lawful Neutral
-alignment_known_to_worshippers: true
-suggested_cleric_domains: [Death, Grave, Twilight]
-symbol: White teardrop eye with black feathered wings
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Raven Queen
 

@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[Bells Hells]]"
-location: 
-role: Bells Hells member / key figure in Predathos/Ruidus arc
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Imogen Temult
 

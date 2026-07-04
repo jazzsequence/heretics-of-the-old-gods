@@ -1,16 +1,3 @@
----
-type: npc
-status: unknown
-faction: "[[The Luxon]]"
-location: "[[Rosohna]]"
-role: Former Shadowhand of the Kryn Dynasty / dunamancy prodigy
-pronouns: he/him
-first_appeared: 
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Essek Thelyss
 

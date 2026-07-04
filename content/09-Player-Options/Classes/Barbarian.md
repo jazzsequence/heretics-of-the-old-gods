@@ -1,7 +1,3 @@
----
-type: reference
-tags: [player-options, class]
----
 
 # BARBARIAN
 

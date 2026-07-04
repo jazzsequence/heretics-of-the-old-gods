@@ -1,17 +1,3 @@
----
-type: faction
-category: scholarly
-status: dormant
-leader:
-goal:
-disposition: unknown
-hq: "[[Shattered Teeth]]"
-secret: false
-aliases: []
-tags:
-  - historical
-created: 2026-06-20
----
 
 # Mind Lords of the Shattered Teeth
 

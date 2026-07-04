@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: "[[Cerberus Assembly]]"
-location: 
-role: Former co-founder of the Cerberus Assembly / instigator of the Briarwood arc
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Delilah Briarwood
 

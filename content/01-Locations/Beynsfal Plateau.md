@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Tal'Dorei]]"
-location_type: wilderness
-faction_control: null
-danger_level: 4
-secret: false
-aliases: []
-tags: [goblinkin, post-imperial]
-created: 2026-06-28
----
 
 # Beynsfal Plateau
 

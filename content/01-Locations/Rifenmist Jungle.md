@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Tal'Dorei]]"
-location_type: wilderness
-faction_control: null
-danger_level: 3
-secret: false
-aliases: []
-tags: [jungle, elven, orroyen]
-created: 2026-06-28
----
 
 # Rifenmist Jungle
 

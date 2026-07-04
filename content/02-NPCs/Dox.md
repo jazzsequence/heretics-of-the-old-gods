@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: 
-location: "[[Bassuras]]"
-role: Scrapper union member
-pronouns: he/him
-first_appeared: "[[Hook B - The Broken Chain]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Dox
 

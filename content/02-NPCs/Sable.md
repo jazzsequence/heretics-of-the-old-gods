@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[The Court of Dust]]"
-location: "[[Bassuras]]"
-role: Veteran Court survey guide
-pronouns: they/them
-first_appeared: "[[Hook C - The Ninth Expedition]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Sable
 

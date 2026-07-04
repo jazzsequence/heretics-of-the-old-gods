@@ -1,16 +1,3 @@
----
-type: faction
-category: governmental
-status: active
-leader:
-goal: Control the flow of information and power in and out of Bassuras.
-disposition: unknown
-hq: "[[The Undercarriage]]"
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # The Court of Dust
 

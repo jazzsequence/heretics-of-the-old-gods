@@ -1,8 +1,3 @@
----
-type: house-rule
-tags: [combat, death-saves]
-created: 2026-06-29
----
 
 # Desperate Measures
 

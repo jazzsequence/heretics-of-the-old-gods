@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Tal'Dorei]]"
-location_type: city
-faction_control: "[[Tal'Dorei Council]]"
-danger_level: 2
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Whitestone
 

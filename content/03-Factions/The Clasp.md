@@ -1,17 +1,3 @@
----
-type: faction
-category: criminal
-status: destroyed
-leader:
-goal: Profit through illegal means while preserving the function of civilization that makes profit possible.
-disposition: neutral
-hq: "[[Emon]]"
-secret: false
-aliases: []
-tags:
-  - historical
-created: 2026-06-20
----
 
 # The Clasp
 

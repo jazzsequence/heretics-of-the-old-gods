@@ -1,16 +1,3 @@
----
-type: location
-status: discovered
-region:
-  - "[[Wildemount]]"
-location_type: wilderness
-faction_control: "[[Mind Lords of the Shattered Teeth]]"
-danger_level: 4
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Shattered Teeth
 

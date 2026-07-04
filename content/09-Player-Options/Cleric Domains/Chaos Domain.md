@@ -1,15 +1,3 @@
----
-type: subclass
-class: Cleric
-subclass_type: Domain
-source: homebrew
-associated_deity: "[[Ashtu]]"
-practitioner_name: Snarltouched / Deepreaders
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Chaos Domain
 

@@ -1,15 +1,3 @@
----
-type: subclass
-class: Cleric
-subclass_type: Domain
-source: homebrew
-associated_deity: "[[Ur'Shakthu]]"
-practitioner_name: Stormbound
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Storm Domain
 

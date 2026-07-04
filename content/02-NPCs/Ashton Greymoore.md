@@ -1,18 +1,3 @@
----
-type: npc
-status: dead
-faction:
-location: Bassuras
-role: Patron saint / folk hero of Bassuras (the Sanctash)
-pronouns:
-first_appeared:
-secret: false
-aliases:
-  - Sanctos Ashton
-  - the Sanctash
-tags:
-created: 2026-06-20
----
 
 # Ashton Greymoore
 

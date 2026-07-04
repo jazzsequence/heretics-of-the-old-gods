@@ -1,17 +1,3 @@
----
-type: location
-status: discovered
-region:
-  - "[[Menagerie Coast]]"
-  - "[[Wildemount]]"
-location_type: city
-faction_control: null
-danger_level: 2
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Nicodranas
 

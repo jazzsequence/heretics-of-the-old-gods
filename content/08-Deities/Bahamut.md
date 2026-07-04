@@ -1,16 +1,3 @@
----
-type: deity
-epithets: ["The Platinum Dragon", "The Lord of the North Wind", "The Justice Bringer"]
-domain: [Justice, Honor, Nobility, Protection]
-alignment: Lawful Good
-alignment_known_to_worshippers: true
-suggested_cleric_domains: [Life, Order, War]
-symbol: Silver dragon's head
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Bahamut
 

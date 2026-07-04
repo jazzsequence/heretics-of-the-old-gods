@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: "[[The Luxon]]"
-location: "[[Bassuras]]"
-role: Mission house care patient
-pronouns: he/him
-first_appeared: "[[Hook D - The Congregation]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Pol
 

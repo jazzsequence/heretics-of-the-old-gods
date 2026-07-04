@@ -1,16 +1,3 @@
----
-type: faction
-category: 
-status: dormant
-leader: 
-goal: 
-disposition: unknown
-hq: "[[Tal'Dorei]]"
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Vox Machina
 

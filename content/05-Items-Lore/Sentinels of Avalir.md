@@ -1,13 +1,3 @@
----
-type: item-lore
-item_type: history
-location: "[[Eiselcross]]"
-owner: 
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Sentinels of Avalir
 

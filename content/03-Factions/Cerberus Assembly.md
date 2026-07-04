@@ -1,17 +1,3 @@
----
-type: faction
-category: scholarly
-status: undeveloped
-leader: "[[Yussa Errenis]]"
-goal: Maintain arcane dominance within the Dwendalian Empire; rebuild the
-  Volstrucker intelligence apparatus
-disposition: unknown
-hq: "[[Rexxentrum]]"
-secret: false
-aliases: []
-tags: null
-created: 2026-06-20
----
 
 # Cerberus Assembly
 

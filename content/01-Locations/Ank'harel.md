@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Marquet]]"
-location_type: city
-faction_control: "[[J'mon Sa Ord]]"
-danger_level: 2
-secret: false
-aliases: ["Jewel of Hope", "Jeweled City"]
-tags: []
-created: 2026-06-20
----
 
 # Ank'harel
 

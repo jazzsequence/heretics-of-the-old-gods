@@ -1,16 +1,3 @@
----
-type: npc
-status: unknown
-faction: "[[The Court of Dust]]"
-location: "[[Bassuras]]"
-role: Court of Dust underground survey operations — title only, not a proper name
-pronouns: he/him
-first_appeared: "[[Hook B - The Broken Chain]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # The Survey Foreman
 

@@ -1,15 +1,3 @@
----
-type: subclass
-class: Cleric
-subclass_type: Domain
-source: homebrew
-associated_deity: "[[Azgurathul]]"
-practitioner_name: Forgekissed
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Arcana Domain
 

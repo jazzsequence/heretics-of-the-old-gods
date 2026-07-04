@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[Cerberus Assembly]]"
-location: "[[Rexxentrum]]"
-role: De facto leader of the Cerberus Assembly / true power of the Dwendalian Empire
-pronouns: he/him
-first_appeared:
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Yussa Errenis
 

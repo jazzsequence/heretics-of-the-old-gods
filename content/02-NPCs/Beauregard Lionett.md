@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[Cobalt Soul]]"
-location: 
-role: Former Mighty Nein member / High Curator of the Cobalt Soul
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: ["Beau"]
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Beauregard Lionett
 

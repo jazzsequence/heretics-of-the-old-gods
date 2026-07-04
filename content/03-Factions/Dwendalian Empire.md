@@ -1,16 +1,3 @@
----
-type: faction
-category: governmental
-status: active
-leader: "[[Suria Dwendal II]]"
-goal: 
-disposition: unknown
-hq: "[[Rexxentrum]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Dwendalian Empire
 

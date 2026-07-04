@@ -1,18 +1,3 @@
----
-type: npc
-status: alive
-faction:
-location: "[[Nuxan]]"
-role: Ancient aeormaton, ecological observer
-pronouns: they/them
-first_appeared:
-secret: false
-aliases:
-  - Environmental Observation Naturalist 7
-  - the 7 foot forest demon (rumor)
-tags:
-created: 2026-06-20
----
 
 # EON
 

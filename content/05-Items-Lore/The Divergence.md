@@ -1,13 +1,3 @@
----
-type: item-lore
-item_type: history
-location: 
-owner: 
-secret: false
-aliases: ["The Divergence", "The Divine Gate"]
-tags: ["historical-event"]
-created: 2026-06-20
----
 
 # The Divergence
 

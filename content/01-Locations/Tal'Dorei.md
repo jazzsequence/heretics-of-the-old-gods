@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: 
-location_type: continent
-faction_control: "[[Tal'Dorei Council]]"
-danger_level: 3
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Tal'Dorei
 

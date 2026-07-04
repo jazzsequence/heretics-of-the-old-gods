@@ -1,16 +1,3 @@
----
-type: deity
-epithets: ["The Knowing Mistress", "The Seeker"]
-domain: [Knowledge, Prophecy, Information]
-alignment: True Neutral
-alignment_known_to_worshippers: true
-suggested_cleric_domains: [Knowledge, Arcana]
-symbol: Pair of open eyes with a third eye above
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Ioun
 

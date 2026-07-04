@@ -1,29 +1,3 @@
----
-type: deity
-epithets:
-  - The Desiccator
-  - The Sudden Gift
-  - The Unknowable
-  - The Scar of the Desert
-domain:
-  - Water
-  - Drought
-  - Chaos
-  - The Deep
-  - The Snarl
-alignment: Chaotic Neutral
-alignment_known_to_worshippers: true
-suggested_cleric_domains:
-  - Tempest
-  - Nature
-  - Chaos (homebrew)
-symbol: Converging spirals — three or four, touching, spiraling into each other without resolution.
-secret: false
-aliases: []
-tags:
-  - hedge-god
-created: 2026-06-20
----
 
 # Ashtu
 

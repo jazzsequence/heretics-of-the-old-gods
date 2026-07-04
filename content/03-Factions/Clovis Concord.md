@@ -1,16 +1,3 @@
----
-type: faction
-category: governmental
-status: dormant
-leader: 
-goal: 
-disposition: unknown
-hq: "[[Nicodranas]]"
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Clovis Concord
 

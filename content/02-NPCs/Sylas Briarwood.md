@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: 
-location: "[[Whitestone]]"
-role: Co-conspirator in the Briarwood arc / Delilah's husband
-pronouns: he/him
-first_appeared: 
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Sylas Briarwood
 

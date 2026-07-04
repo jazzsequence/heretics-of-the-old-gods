@@ -1,16 +1,3 @@
----
-type: faction
-category: 
-status: dormant
-leader: 
-goal: 
-disposition: unknown
-hq: 
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Bells Hells
 

@@ -1,16 +1,3 @@
----
-type: faction
-category: scholarly
-status: active
-leader:
-goal: Recover forbidden histories, translating pre-Exodus tomes to preserve lineage against Luxon rewriting.
-disposition: unknown
-hq: Sunken city beneath the [[Lucidian Ocean]], once part of [[Nicodranas]]
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # The Empty Archive
 

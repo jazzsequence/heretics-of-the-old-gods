@@ -1,15 +1,3 @@
----
-type: location
-status: destroyed
-region: "[[Tal'Dorei]]"
-location_type: ruin
-faction_control: null
-danger_level: 2
-secret: false
-aliases: []
-tags: [elven, historical]
-created: 2026-06-28
----
 
 # Syngorn
 

@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Issylra]]"
-location_type: city
-faction_control: 
-danger_level: 5
-secret: false
-aliases: []
-tags: ["destroyed"]
-created: 2026-06-20
----
 
 # Ozana
 

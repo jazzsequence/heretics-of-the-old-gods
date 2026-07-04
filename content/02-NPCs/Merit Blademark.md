@@ -1,17 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[The Garrotte Line]]"
-location: Bassuras
-role: Minor cell leader, field operative
-pronouns: she/her
-first_appeared:
-secret: false
-aliases:
-  - The Wires
-tags:
-created: 2026-06-20
----
 
 # Merit Blademark
 

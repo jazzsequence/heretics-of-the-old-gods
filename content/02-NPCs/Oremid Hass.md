@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: "[[Cerberus Assembly]]"
-location: 
-role: Former Headmaster of the Hall of Erudition, Cerberus Assembly
-pronouns: he/him
-first_appeared: 
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Oremid Hass
 

@@ -1,8 +1,3 @@
----
-type: dm-note
-tags: [session-zero, safety]
-created: 2026-06-25
----
 
 # Lines and Veils
 

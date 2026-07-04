@@ -1,7 +1,3 @@
----
-type: dm-note
-tags: [session-zero, planning]
----
 
 # Session Zero — Heretics of the Old Gods
 

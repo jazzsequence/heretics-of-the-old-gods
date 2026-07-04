@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Tal'Dorei]]"
-location_type: settlement
-faction_control: "[[The Ashari]]"
-danger_level: 2
-secret: false
-aliases: []
-tags: [ashari, elemental]
-created: 2026-06-28
----
 
 # Terrah
 

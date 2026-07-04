@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: 
-location: 
-role: Betrayer God / God of Imprisonment and Torture
-pronouns: he/him
-first_appeared: 
-secret: false
-aliases: ["The Crawling King", "He Who Crawls"]
-tags: []
-created: 2026-06-20
----
 
 # Torog
 

@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Wildemount]]"
-location_type: city
-faction_control: "[[Dwendalian Empire]]"
-danger_level: 2
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Zadash
 

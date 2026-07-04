@@ -1,16 +1,3 @@
----
-type: faction
-category: religious
-status: active
-leader:
-goal: Nature remembers what gods forget.
-disposition: unknown
-hq:
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # The Verdant Covenant
 

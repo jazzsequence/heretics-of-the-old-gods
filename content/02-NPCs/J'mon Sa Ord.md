@@ -1,18 +1,3 @@
----
-type: npc
-status: alive
-faction:
-location: "[[Ank'harel]]"
-role: Ruler of Ank'harel / ancient brass dragon
-pronouns: they/them
-first_appeared:
-secret: false
-aliases:
-  - Devo'ssa
-  - Soul of the Jeweled City
-tags: []
-created: 2026-06-20
----
 
 # J'mon Sa Ord
 

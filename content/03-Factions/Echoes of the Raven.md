@@ -1,16 +1,3 @@
----
-type: faction
-category: religious
-status: active
-leader:
-goal: Death must be natural, not controlled by consecution or Luxon reincarnation.
-disposition: unknown
-hq:
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Echoes of the Raven
 

@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[Mind Lords of the Shattered Teeth]]"
-location: "[[Shattered Teeth]]"
-role: Second of the Mind Lords / earth mother
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Barani
 

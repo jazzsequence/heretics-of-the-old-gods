@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Rosohna]]"
-location_type: landmark
-faction_control: "[[The Luxon]]"
-danger_level: 1
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Lucid Bastion
 

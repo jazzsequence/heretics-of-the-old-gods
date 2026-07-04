@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Eiselcross]]"
-location_type: landmark
-faction_control: 
-danger_level: 5
-secret: false
-aliases: []
-tags: ["historical"]
-created: 2026-06-20
----
 
 # Aeor
 

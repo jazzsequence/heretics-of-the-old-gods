@@ -1,16 +1,3 @@
----
-type: faction
-category: governmental
-status: active
-leader: "[[Bright Queen Caelestis Kryn]]"
-goal: Expand Kryn political dominion across Nuxan; recover all remaining Luxon beacons to complete the ritual of reassembly.
-disposition: hostile
-hq: "[[Rosohna]]"
-secret: false
-aliases: [Kryn Dynasty]
-tags: [drow, expansionist, imperial]
-created: 2026-06-28
----
 
 # Kryn Dynasty
 

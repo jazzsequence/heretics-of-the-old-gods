@@ -1,17 +1,3 @@
----
-type: location
-status: discovered
-region:
-  - "[[Menagerie Coast]]"
-  - "[[Wildemount]]"
-location_type: city
-faction_control: "[[The Plank King]]"
-danger_level: 4
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Darktow
 

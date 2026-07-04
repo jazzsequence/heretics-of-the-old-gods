@@ -1,16 +1,3 @@
----
-type: npc
-status: alive
-faction: "[[The Luxon]]"
-location: "[[Rosohna]]"
-role: Overseer of Light, missionary
-pronouns: they/them
-first_appeared:
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Soryn Vossira
 

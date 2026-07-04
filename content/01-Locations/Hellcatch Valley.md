@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: Marquet
-location_type: wilderness
-faction_control: '"[[The Court of Dust]]"'
-danger_level: 4
-secret: false
-aliases: []
-tags:
-created: 2026-06-20
----
 
 # Hellcatch Valley
 

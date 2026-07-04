@@ -1,30 +1,3 @@
----
-type: deity
-epithets:
-  - The Wildmother
-  - Serataani (Marquesian)
-  - an-Melzidanye (Goblin)
-domain:
-  - Wilderness
-  - Sea
-  - Nature
-  - Harvest
-  - Storms
-  - Travel
-alignment: Neutral
-alignment_known_to_worshippers: true
-suggested_cleric_domains:
-  - Life
-  - Nature
-  - Tempest
-symbol: Wreath of grass and grain affixed to a crook
-secret: false
-aliases:
-  - The Wildmother
-  - Serataani
-tags:
-created: 2026-06-20
----
 
 # Melora
 

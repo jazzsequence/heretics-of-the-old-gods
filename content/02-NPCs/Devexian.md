@@ -1,17 +1,3 @@
----
-type: npc
-status: unknown
-faction:
-location: "[[Nuxan]]"
-role: Aeormaton who repaired and rehabilitated EON
-pronouns:
-first_appeared:
-secret: false
-aliases:
-  - D
-tags: []
-created: 2026-06-20
----
 
 # Devexian
 

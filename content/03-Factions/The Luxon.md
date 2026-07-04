@@ -1,17 +1,3 @@
----
-type: faction
-category: religious
-status: active
-leader: "[[Bright Queen Caelestis Kryn]]"
-goal: Unite all of Nuxan under the Luxon faith; reunite all beacons to awaken the Luxon and usher in a new world.
-disposition: hostile
-hq: "[[Lucid Bastion]]"
-secret: false
-aliases:
-  - The Light
-tags:
-created: 2026-06-20
----
 
 # The Luxon
 

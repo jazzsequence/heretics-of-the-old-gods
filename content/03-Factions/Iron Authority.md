@@ -1,13 +1,3 @@
----
-type: faction
-category: governmental
-status: dissolved
-region: "[[Beynsfal Plateau]]"
-secret: false
-aliases: []
-tags: [hobgoblin, historical, imperial]
-created: 2026-06-28
----
 
 # Iron Authority
 

@@ -1,16 +1,3 @@
----
-type: npc
-status: dead
-faction: "[[The Luxon]]"
-location: "[[Rosohna]]"
-role: Former Bright Queen of the Kryn Dynasty / first Umavi
-pronouns: she/her
-first_appeared: 
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Leylas Kryn
 

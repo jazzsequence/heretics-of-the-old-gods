@@ -1,15 +1,3 @@
----
-type: location
-status: discovered
-region: "[[Shadowfell]]"
-location_type: landmark
-faction_control: "[[Raven Queen]]"
-danger_level: 3
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Letherna
 

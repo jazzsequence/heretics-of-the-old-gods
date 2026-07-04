@@ -1,16 +1,3 @@
----
-type: npc
-status: missing
-faction: "[[The Court of Dust]]"
-location: "[[The Ends]]"
-role: Contract broker (Court asset)
-pronouns: they/them
-first_appeared: "[[Hook C - The Ninth Expedition]]"
-secret: false
-aliases: []
-tags: []
-created: 2026-06-20
----
 
 # Cassin Vere
 
