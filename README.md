@@ -53,10 +53,4 @@ GitHub Actions builds and deploys straight from whatever is committed in `conten
 3. Review the diff in `content/` — this is the last checkpoint before anything becomes public.
 4. Commit and push to `main`. The `Deploy Quartz site to GitHub Pages` workflow builds and publishes automatically.
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Step 2 is the only filtering step — `npm run build` runs `filter-vault` first (via `prebuild`) every time, so it always re-derives `content/` from the current state of the vault before building. There's no separate sync step to remember.
