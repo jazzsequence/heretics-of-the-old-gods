@@ -43,6 +43,7 @@
 | [[Soryn Vossira]] | [[The Luxon]] | [[Rosohna]] | alive | Overseer of Light, missionary |
 | [[Splice]] |  | [[Bassuras]] | alive | Veteran Deathwish Runner |
 | [[Suria Dwendal II]] | [[Dwendalian Empire]] | [[Rexxentrum]] | alive | Nominal ruler of the Dwendalian Empire |
+| [[Sylas Briarwood]] |  | [[Whitestone]] | unknown | Co-conspirator in the Briarwood arc / Delilah's husband |
 | [[The Survey Foreman]] | [[The Court of Dust]] | [[Bassuras]] | unknown | Court of Dust underground survey operations — title only, not a proper name |
 | [[Talyss Mirrenai]] | [[The Luxon]] |  | unknown | Former Krynn military cadet / Soryn's lost partner |
 

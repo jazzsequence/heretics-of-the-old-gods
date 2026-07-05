@@ -3,7 +3,7 @@
 
 ## Overview
 
-Continent west of [[Wildemount]], scene of Campaign One. A thousand years after the Exodus, the Tal'Dorei Republic no longer exists as a unified political entity. The republic fractured under the combined pressure of the Exodus, ecological collapse, and the absence of divine authority — a process that took roughly two centuries and produced the current landscape of independent city-states.
+Continent west of [[Wildemount]], scene of [[Critical Role Campaign One|Campaign One]]. A thousand years after the Exodus, the Tal'Dorei Republic no longer exists as a unified political entity. The republic fractured under the combined pressure of the Exodus, ecological collapse, and the absence of divine authority — a process that took roughly two centuries and produced the current landscape of independent city-states.
 
 The **[[Tal'Dorei Council]]** survives by name and by tradition, but it has evolved from a republican governing body into a loose alliance of independent city-state leaders. The name is retained for historical legitimacy. The actual authority it holds depends entirely on the political will of its members. [[Emon]] holds the most sway — commercially and arcanically — and effectively sets the Council's agenda, though not without resistance.
 
