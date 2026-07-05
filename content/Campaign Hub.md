@@ -95,47 +95,15 @@
 | File | region | location_type | faction_control | danger_level |
 | --- | --- | --- | --- | --- |
 | [[Ank'harel]] | [[Marquet]] | city | [[J'mon Sa Ord]] | 2 |
-| [[Avalir]] | [[Eiselcross]] | city |  | 5 |
 | [[Bassuras]] | [[Hellcatch Valley]] | city | [[The Court of Dust]] | 4 |
-| [[Darktow]] | [[Menagerie Coast]], [[Wildemount]] | city | [[The Plank King]] | 4 |
-| [[Emon]] | [[Tal'Dorei]] | city | [[Tal'Dorei Council]] | 2 |
-| [[Kraghammer]] | [[Tal'Dorei]] | city |  | 2 |
-| [[Nicodranas]] | [[Menagerie Coast]], [[Wildemount]] | city |  | 2 |
-| [[Niirdal-Poc]] | [[Rifenmist Jungle]] | city |  | 1 |
-| [[Ozana]] | [[Issylra]] | city |  | 5 |
-| [[Rexxentrum]] | [[Wildemount]] | city | [[Dwendalian Empire]] | 2 |
-| [[Rosohna]] | [[Xhorhas]] | city | [[Kryn Dynasty]] | 2 |
-| [[Vasselheim]] | [[Issylra]] | city |  | 2 |
-| [[Whitestone]] | [[Tal'Dorei]] | city | [[Tal'Dorei Council]] | 2 |
 | [[Zadash]] | [[Wildemount]] | city | [[Dwendalian Empire]] | 2 |
-| [[Tal'Dorei]] |  | continent | [[Tal'Dorei Council]] | 3 |
-| [[Aeor]] | [[Eiselcross]] | landmark |  | 5 |
-| [[Cael Morrow]] | [[Ank'harel]] | landmark |  | 4 |
-| [[Letherna]] | [[Shadowfell]] | landmark | [[Raven Queen]] | 3 |
-| [[Lucid Bastion]] | [[Rosohna]] | landmark | [[The Luxon]] | 1 |
-| [[Psionics Academy]] | [[Shattered Teeth]] | landmark | [[Mind Lords of the Shattered Teeth]] | 3 |
-| [[Ruidus]] |  | landmark |  | 3 |
-| [[The Crimson Shadow]] | [[Nuxan]] | landmark | [[Children of the Hollow Moon]] | 4 |
-| [[The East Dregs]] | "[[Bassuras]]" | landmark |  | 5 |
-| [[The Ends]] | "[[Bassuras]]" | landmark |  | 2 |
-| [[The Undercarriage]] | "[[Bassuras]]" | landmark | [[The Court of Dust]] | 3 |
-| [[Pyrah]] | [[Tal'Dorei]] | settlement | [[The Ashari]] | 3 |
-| [[Terrah]] | [[Tal'Dorei]] | settlement | [[The Ashari]] | 2 |
-| [[Vesrah]] | [[Tal'Dorei]] | settlement | [[The Ashari]] | 2 |
+| [[The East Dregs]] | [[Bassuras]] | landmark |  | 5 |
+| [[The Ends]] | [[Bassuras]] | landmark |  | 2 |
+| [[The Undercarriage]] | [[Bassuras]] | landmark | [[The Court of Dust]] | 3 |
 | [[Zephrah]] | [[Tal'Dorei]] | settlement | [[The Ashari]] | 2 |
-| [[Beynsfal Plateau]] | [[Tal'Dorei]] | wilderness |  | 4 |
-| [[Eiselcross]] |  | wilderness |  | 5 |
-| [[Feywild]] |  | wilderness |  | 3 |
-| [[Hellcatch Valley]] | Marquet | wilderness | "[[The Court of Dust]]" | 4 |
-| [[Issylra]] |  | wilderness |  | 2 |
-| [[Lucidian Ocean]] | Wildemount / Nicodranas | wilderness |  | 2 |
+| [[Hellcatch Valley]] | Marquet | wilderness | [[The Court of Dust]] | 4 |
 | [[Marquet]] |  | wilderness |  | 2 |
-| [[Menagerie Coast]] | Wildemount | wilderness | [[The Plank King]] | 3 |
 | [[Nuxan]] |  | wilderness |  | 2 |
-| [[Rifenmist Jungle]] | [[Tal'Dorei]] | wilderness |  | 3 |
-| [[Savalirwood]] | [[Wildemount]] | wilderness |  | 3 |
-| [[Shadowfell]] |  | wilderness |  | 5 |
-| [[Shattered Teeth]] | [[Wildemount]] | wilderness | [[Mind Lords of the Shattered Teeth]] | 4 |
 | [[Wildemount]] |  | wilderness |  | 2 |
 | [[Xhorhas]] | [[Wildemount]] | wilderness | [[Kryn Dynasty]] | 2 |
 

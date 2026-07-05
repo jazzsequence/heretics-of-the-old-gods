@@ -25,8 +25,6 @@ A shrine to the Sanctash exists at the former site of the Greymoore Home for Unt
 
 [[Kethren Duvash]] — trusted advisor to the Court of Dust.
 
-[[Ashton Greymoore]] — the historical figure behind the Sanctash myth.
-
 ## Notable Factions
 
 [[The Court of Dust]] — seat of power: [[The Undercarriage]].
