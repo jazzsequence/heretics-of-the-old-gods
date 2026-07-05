@@ -30,27 +30,20 @@
 
 | File | faction | location | status | role |
 | --- | --- | --- | --- | --- |
-| [[Caleb Widogast]] | [[Cerberus Assembly]] | [[Rexxentrum]] | alive | Former Mighty Nein member / Assembly defector |
-| [[Beauregard Lionett]] | [[Cobalt Soul]] |  | alive | Former Mighty Nein member / High Curator of the Cobalt Soul |
 | [[Barani]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | Second of the Mind Lords / earth mother |
-| [[Cassin Vere]] | [[The Court of Dust]] | [[The Ends]] | missing | Contract broker (Court asset) |
-| [[Devexian]] |  | [[Nuxan]] | unknown | Aeormaton who repaired and rehabilitated EON |
+| [[Cassin Vere]] | [[The Court of Dust]] | [[The Ends]] | alive | Contract broker |
 | [[Dox]] |  | [[Bassuras]] | alive | Scrapper union member |
-| [[EON]] |  | [[Nuxan]] | alive | Ancient aeormaton, ecological observer |
-| [[Imogen Temult]] | [[Bells Hells]] |  | alive | Bells Hells member / key figure in Predathos/Ruidus arc |
-| [[Yussa Errenis]] | [[Cerberus Assembly]] | [[Rexxentrum]] | alive | De facto leader of the Cerberus Assembly / true power of the Dwendalian Empire |
-| [[Suria Dwendal II]] | [[Dwendalian Empire]] | [[Rexxentrum]] | alive | Nominal ruler of the Dwendalian Empire |
-| [[Kosveret]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | Third of the Mind Lords / former god of joy |
-| [[The Survey Foreman]] | [[The Court of Dust]] | [[Bassuras]] | unknown | Court of Dust underground survey operations — title only, not a proper name |
-| [[Merit Blademark]] | [[The Garrotte Line]] | Bassuras | alive | Minor cell leader, field operative |
-| [[Essek Thelyss]] | [[The Luxon]] | [[Rosohna]] | unknown | Former Shadowhand of the Kryn Dynasty / dunamancy prodigy |
 | [[J'mon Sa Ord]] |  | [[Ank'harel]] | alive | Ruler of Ank'harel / ancient brass dragon |
+| [[Kosveret]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | Third of the Mind Lords / former god of joy |
 | [[Maren Thol]] |  | [[Bassuras]] | alive | Scrapper union leader (deceased) / union member |
 | [[Ossa]] |  | [[Bassuras]] | alive | Scrapper union member / Maren's closest ally |
 | [[Predathos]] |  | [[Ruidus]] | sealed | Primordial entity imprisoned within Ruidus; consumer of gods |
+| [[Yussa Errenis]] | [[Cerberus Assembly]] | [[Rexxentrum]] | alive | De facto leader of the Cerberus Assembly / true power of the Dwendalian Empire |
 | [[Sable]] | [[The Court of Dust]] | [[Bassuras]] | alive | Veteran Court survey guide |
 | [[Soryn Vossira]] | [[The Luxon]] | [[Rosohna]] | alive | Overseer of Light, missionary |
 | [[Splice]] |  | [[Bassuras]] | alive | Veteran Deathwish Runner |
+| [[Suria Dwendal II]] | [[Dwendalian Empire]] | [[Rexxentrum]] | alive | Nominal ruler of the Dwendalian Empire |
+| [[The Survey Foreman]] | [[The Court of Dust]] | [[Bassuras]] | unknown | Court of Dust underground survey operations — title only, not a proper name |
 | [[Talyss Mirrenai]] | [[The Luxon]] |  | unknown | Former Krynn military cadet / Soryn's lost partner |
 
 ### GM-Only NPCs

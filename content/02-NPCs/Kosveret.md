@@ -9,6 +9,7 @@ He is not that anymore. The millennia in the orb have taken whatever held him to
 
 A warlock serving Kosveret is serving someone who might send them on a vital intelligence mission and then show up halfway through to ruin it because he got bored. Or might give them exactly the insight they needed at the exact right moment, for no discernible reason. The power is real. The guidance is not reliable.
 
+See [[The Sorcerer-King Patron]] for warlock mechanics.
 ## Personality
 
 A chaos engine wearing the face of a god of joy. Multiple personalities, few aware of each other, none fully reliable.

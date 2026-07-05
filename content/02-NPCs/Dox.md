@@ -3,7 +3,7 @@
 
 ## Description
 
-Young scrapper union member, volatile, not wrong about the injustice. Gets arrested in Beat 4 of [[Hook B - The Broken Chain]] leading a blockade of the main Court dig access near the [[The Undercarriage|Undercarriage]] — doing exactly what [[Maren Thol]] spent forty years preventing. The Court's response is swift and disproportionate, not lethal, calibrated to send a message.
+Young scrapper union member, volatile, not wrong about the injustice. 
 
 May be salvageable as a leader if someone slows him down long enough to think.
 

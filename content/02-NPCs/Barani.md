@@ -9,6 +9,7 @@ Her power oscillates. The manic Barani is warm, generous, protective — a genui
 
 A warlock serving Barani is serving someone whose alignment shifts. On good days, the power they receive is protective and restorative. On bad days, the same patron who healed their allies last week is cold and withholding and might redirect the warlock toward ends that serve Barani's anger rather than her better nature. The warlock never quite knows which Barani answered when they reached out.
 
+See [[The Sorcerer-King Patron]] for warlock mechanics.
 ## Personality
 
 Two fully present states: warm earth mother and cold, irrational cruelty. Neither more real than the other.
