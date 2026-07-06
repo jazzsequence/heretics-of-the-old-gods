@@ -12,19 +12,12 @@
 
 ---
 
-## Active Plot Threads
-
-
----
-
 ## Player Characters
 
 | File | player_name | class | level | faction | status |
 | --- | --- | --- | --- | --- | --- |
 
 ---
-
-## Active Plot Threads
 
 ## NPC Roster
 
