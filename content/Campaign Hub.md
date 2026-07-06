@@ -37,15 +37,12 @@
 | [[Kosveret]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | Third of the Mind Lords / former god of joy |
 | [[Maren Thol]] |  | [[Bassuras]] | alive | Scrapper union leader (deceased) / union member |
 | [[Ossa]] |  | [[Bassuras]] | alive | Scrapper union member / Maren's closest ally |
-| [[Predathos]] |  | [[Ruidus]] | sealed | Primordial entity imprisoned within Ruidus; consumer of gods |
-| [[Yussa Errenis]] | [[Cerberus Assembly]] | [[Rexxentrum]] | alive | De facto leader of the Cerberus Assembly / true power of the Dwendalian Empire |
-| [[Sable]] | [[The Court of Dust]] | [[Bassuras]] | alive | Veteran Court survey guide |
-| [[Soryn Vossira]] | [[The Luxon]] | [[Rosohna]] | alive | Overseer of Light, missionary |
+| [[Predathos]] |  | [[Ruidus]] | departed | Primordial entity formerly imprisoned within Ruidus; consumer of gods |
 | [[Splice]] |  | [[Bassuras]] | alive | Veteran Deathwish Runner |
-| [[Suria Dwendal II]] | [[Dwendalian Empire]] | [[Rexxentrum]] | alive | Nominal ruler of the Dwendalian Empire |
 | [[Sylas Briarwood]] |  | [[Whitestone]] | unknown | Co-conspirator in the Briarwood arc / Delilah's husband |
+| [[Thesik]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | First among the Mind Lords / god of death |
 | [[The Survey Foreman]] | [[The Court of Dust]] | [[Bassuras]] | unknown | Court of Dust underground survey operations — title only, not a proper name |
-| [[Talyss Mirrenai]] | [[The Luxon]] |  | unknown | Former Krynn military cadet / Soryn's lost partner |
+| [[Torrow]] | [[The Court of Dust]] | [[The Ends]] | alive | Racing syndicate fixer |
 
 ### GM-Only NPCs
 
@@ -59,19 +56,14 @@
 | File | category | disposition | leader | status |
 | --- | --- | --- | --- | --- |
 | [[The Garrotte Line]] | criminal | unknown |  | active |
-| [[Aurora Watch]] | governmental | unknown | [[Bright Queen Caelestis Kryn]] | active |
-| [[Den Thelyss]] | governmental | unknown | [[Essek Thelyss]] | active |
 | [[Dwendalian Empire]] | governmental | unknown | [[Suria Dwendal II]] | active |
 | [[Kryn Dynasty]] | governmental | hostile | [[Bright Queen Caelestis Kryn]] | active |
-| [[Tal'Dorei Council]] | governmental | hostile |  | active |
 | [[The Court of Dust]] | governmental | unknown |  | active |
-| [[Children of the Hollow Moon]] | guerrilla | unknown |  | active |
 | [[Echoes of the Raven]] | religious | unknown |  | active |
 | [[The Ashari]] | religious |  |  | active |
 | [[The Luxon]] | religious | hostile | [[Bright Queen Caelestis Kryn]] | active |
 | [[The Verdant Covenant]] | religious | unknown |  | active |
 | [[Whispered Rebellion]] | religious | unknown |  | active |
-| [[Cobalt Veil]] | scholarly | unknown |  | active |
 | [[The Empty Archive]] | scholarly | unknown |  | active |
 
 ---

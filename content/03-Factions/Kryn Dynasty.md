@@ -7,7 +7,16 @@ The dominant political and military power in Nuxan, headquartered in [[Rosohna]]
 
 The Dynasty is organized around a Den structure — noble houses of consecuted souls who have accumulated lifetimes of experience and political capital. Dens compete for influence, resources, and proximity to the Bright Queen. The current Bright Queen, [[Bright Queen Caelestis Kryn]], is the daughter of [[Leylas Kryn]] and [[Quana Kryn]], both of whom consecuted repeatedly over centuries before their souls could no longer bear the accumulated weight of multiple lifetimes.
 
-## Military & Intelligence
+### Key Members
+[[Bright Queen Caelestis Kryn]] — sovereign and supreme religious authority.
+
+## Key Members
+
+[[Auris Vel]] — Lens operative, Bassuras station.
+[[Soryn Vossira]] — Overseer of Light, missionary operations.
+[[Essek Thelyss]] — former Shadowhand, current status unknown.
+
+### Military & Intelligence
 
 **[[Aurora Watch]]** — the Dynasty's military arm, functioning simultaneously as a religious enforcement body, an occupying force in conquered territories, and a covert archaeological and intelligence operation tasked with locating Luxon beacons.
 
@@ -19,10 +28,6 @@ The Dynasty is organized around a Den structure — noble houses of consecuted s
 
 Of the twelve known Luxon beacons, the Kryn Dynasty currently holds ten. The remaining two are unlocated. The recovery of all twelve beacons is the Dynasty's highest-classification operational objective, known only to the innermost circle of Kryn leadership and the Bright Queen herself. The Consecution War, the Pillage of [[Vasselheim]], and the full extent of the Dynasty's missionary expansion are all downstream of this objective. The faithful carrying out these operations are told they are spreading the light of the Luxon. They are not told what the beacons, when assembled, will actually produce.
 
-## Key Members
 
-[[Bright Queen Caelestis Kryn]] — sovereign and supreme religious authority.
-[[Auris Vel]] — Lens operative, Bassuras station.
-[[Soryn Vossira]] — Overseer of Light, missionary operations.
-[[Essek Thelyss]] — former Shadowhand, current status unknown.
 
+The beacon collection operation is the true engine of the Consecution War. The Bright Queen does not know the nature of the entity the ritual will produce. She believes she is summoning a god. See [[10-Campaign-Plot/03-Climax.md]] for full detail.

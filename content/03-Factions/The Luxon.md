@@ -15,7 +15,7 @@ The Luxon does not have a personality or active consciousness, but the most reve
 
 **Typhros:** A kind of madness called typhros afflicts those who are unable to integrate the memories of a series of lives; those who suffer it are quietly removed from society and from the cycle of rebirth.
 
-**Mission houses:** Operate in cities throughout Nuxan as the public face of Luxon expansion — offering consecution, community services, and political relationships, while funneling intelligence back to Rosohna. The deal struck with [[The Court of Dust]] in Bassuras (political cover + eventual Krynn military support in exchange for sanctioned access to underground ruins) is a template of this model, not an exception to it.
+**Mission houses:** Operate in cities throughout Nuxan as the public face of Luxon expansion — offering consecution, community services, and political relationships,
 
 ## Key Members
 

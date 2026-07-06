@@ -19,10 +19,6 @@ The Court responds to direct theft from Court properties and human trafficking w
 
 The Court has spies and agents that are unmarked who live and work within the populace. Anyone in the city might be an agent of the Court, and that makes the threat of punishment everpresent.
 
-The Court tolerates the myth of the [[Sanctash]] ([[Ashton Greymoore]]) because to do otherwise would enrage the city — and reshapes/alters the narrative instead, understanding the danger of letting the oppressed believe too strongly in a story about why they can and should rise up, while not being able to fully control the effect that story has on people.
-
-As of the campaign's arrangement-phase plotline: the Court has already struck a deal with the Luxon mission house ([[Auris Vel]]) — political cover and eventual Krynn military support in exchange for sanctioned access to the underground ruins. The wider city does not know this deal exists.
-
 ## Key Members
 
 [[Kethren Duvash]] — trusted advisor on arcane history, artifact identification, and ruins politics. Considered indispensable; this is not the same as being trusted.

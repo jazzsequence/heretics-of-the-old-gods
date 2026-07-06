@@ -7,9 +7,10 @@
 
 Their actions directly shaped the conditions that led to the Exodus — the sealing of [[Predathos]], the fate of [[Vecna]], and the 843 PD meeting where the gods debated and ultimately chose departure or mortality.
 
-**Note on Ashton Greymoore:** The [[Ashton Greymoore]] of Heretics of the Old Gods is the Sanctash myth, a patron saint of [[Bassuras]] — not necessarily the same individual as the Bells Hells member, though the connection is worth deliberate consideration as a worldbuilding decision.
+[[Ashton Greymoore]] has become a myth and folk legend known as the Sanctash, a patron saint of [[Bassuras]]
 
 ## Key Members
 
-[[Imogen Temult]], [[Ashton Greymoore]] (see note above)
+[[Imogen Temult]]
+[[Ashton Greymoore]]
 
