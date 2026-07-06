@@ -33,13 +33,13 @@
 | [[Barani]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | Second of the Mind Lords / earth mother |
 | [[Cassin Vere]] | [[The Court of Dust]] | [[The Ends]] | alive | Contract broker |
 | [[Dox]] |  | [[Bassuras]] | alive | Scrapper union member |
-| [[J'mon Sa Ord]] |  | [[Ank'harel]] | alive | Ruler of Ank'harel / ancient brass dragon |
+| [[J'mon Sa Ord]] |  | [[Ank'harel]] | alive | Ruler of Ank'harel |
 | [[Kosveret]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | Third of the Mind Lords / former god of joy |
 | [[Maren Thol]] |  | [[Bassuras]] | alive | Scrapper union leader |
 | [[Ossa]] |  | [[Bassuras]] | alive | Scrapper union member / Maren's closest ally |
 | [[Splice]] |  | [[Bassuras]] | alive | Veteran Deathwish Runner |
 | [[Thesik]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | First among the Mind Lords / god of death |
-| [[The Survey Foreman]] | [[The Court of Dust]] | [[Bassuras]] | unknown | Court of Dust underground survey operations — title only, not a proper name |
+| [[The Survey Foreman]] | [[The Court of Dust]] | [[Bassuras]] | alive | Court of Dust underground survey operations — title only, not a proper name |
 | [[Torrow]] | [[The Court of Dust]] | [[The Ends]] | alive | Racing syndicate fixer |
 
 ### GM-Only NPCs
@@ -95,38 +95,50 @@
 
 ## Player Options Reference
 
-| File | class | subclass_type | associated_deity |
-| --- | --- | --- | --- |
-| [[Arcana Domain]] | Cleric | Domain | [[Azgurathul]] |
-| [[Chaos Domain]] | Cleric | Domain | [[Ashtu]] |
-| [[Storm Domain]] | Cleric | Domain | [[Ur'Shakthu]] |
-| [[Survival Domain]] | Cleric | Domain | [[Deshretu]] |
-| [[The Sorcerer-King Patron]] | Warlock | Patron |  |
-| [[Fixer]] |  |  |  |
-| [[Informant]] |  |  |  |
-| [[Kept]] |  |  |  |
-| [[Luxon Missionary]] |  |  |  |
-| [[Rebel]] |  |  |  |
-| [[Ruins Guide]] |  |  |  |
-| [[Sandspeaker]] |  |  |  |
-| [[Scrapper]] |  |  |  |
-| [[Wheel]] |  |  |  |
-| [[Wrench]] |  |  |  |
-| [[Artificer]] |  |  |  |
-| [[Barbarian]] |  |  |  |
-| [[Bard]] |  |  |  |
-| [[Blood Hunter]] |  |  |  |
-| [[Cleric]] |  |  |  |
-| [[Druid]] |  |  |  |
-| [[Fighter]] |  |  |  |
-| [[Gunner]] |  |  |  |
-| [[Monk]] |  |  |  |
-| [[Ranger]] |  |  |  |
-| [[Rogue]] |  |  |  |
-| [[Sorcerer]] |  |  |  |
-| [[Warlock]] |  |  |  |
-| [[Wizard]] |  |  |  |
-| [[Road Warrior]] |  |  |  |
+### Classes
+
+| File |
+| --- |
+| [[Artificer]] |
+| [[Barbarian]] |
+| [[Bard]] |
+| [[Blood Hunter]] |
+| [[Cleric]] |
+| [[Druid]] |
+| [[Fighter]] |
+| [[Gunner]] |
+| [[Monk]] |
+| [[Ranger]] |
+| [[Rogue]] |
+| [[Sorcerer]] |
+| [[Warlock]] |
+| [[Wizard]] |
+
+### Subclasses (Cleric Domains & Warlock Patrons)
+
+| File | class | subclass_type | associated_deity | practitioner_name |
+| --- | --- | --- | --- | --- |
+
+### Backgrounds
+
+| File | source |
+| --- | --- |
+| [[Fixer]] | homebrew |
+| [[Informant]] | homebrew |
+| [[Kept]] | homebrew |
+| [[Luxon Missionary]] | homebrew |
+| [[Rebel]] | homebrew |
+| [[Ruins Guide]] | homebrew |
+| [[Sandspeaker]] | homebrew |
+| [[Scrapper]] | homebrew |
+| [[Wheel]] | homebrew |
+| [[Wrench]] | homebrew |
+
+### Feats
+
+| File | source |
+| --- | --- |
+| [[Road Warrior]] | homebrew |
 
 ---
 
