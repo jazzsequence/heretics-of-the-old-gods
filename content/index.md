@@ -35,11 +35,9 @@
 | [[Dox]] |  | [[Bassuras]] | alive | Scrapper union member |
 | [[J'mon Sa Ord]] |  | [[Ank'harel]] | alive | Ruler of Ank'harel / ancient brass dragon |
 | [[Kosveret]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | Third of the Mind Lords / former god of joy |
-| [[Maren Thol]] |  | [[Bassuras]] | alive | Scrapper union leader (deceased) / union member |
+| [[Maren Thol]] |  | [[Bassuras]] | alive | Scrapper union leader |
 | [[Ossa]] |  | [[Bassuras]] | alive | Scrapper union member / Maren's closest ally |
-| [[Predathos]] |  | [[Ruidus]] | departed | Primordial entity formerly imprisoned within Ruidus; consumer of gods |
 | [[Splice]] |  | [[Bassuras]] | alive | Veteran Deathwish Runner |
-| [[Sylas Briarwood]] |  | [[Whitestone]] | unknown | Co-conspirator in the Briarwood arc / Delilah's husband |
 | [[Thesik]] | [[Mind Lords of the Shattered Teeth]] | [[Shattered Teeth]] | alive | First among the Mind Lords / god of death |
 | [[The Survey Foreman]] | [[The Court of Dust]] | [[Bassuras]] | unknown | Court of Dust underground survey operations — title only, not a proper name |
 | [[Torrow]] | [[The Court of Dust]] | [[The Ends]] | alive | Racing syndicate fixer |
