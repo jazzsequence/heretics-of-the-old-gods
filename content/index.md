@@ -107,9 +107,9 @@
 | [[Warlock]] |
 | [[Wizard]] |
 
-### Subclasses (Cleric Domains & Warlock Patrons)
+### Subclasses
 
-| File | class | subclass_type | associated_deity | practitioner_name |
+| File | class | subclass_type | associated_deity | source |
 | --- | --- | --- | --- | --- |
 
 ### Backgrounds

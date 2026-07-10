@@ -7,7 +7,7 @@ In [[Nuxan]], where the [[Shadowfell]] leaks ungoverned dead into the living wor
 
 ## Available Subclasses
 
-- **Order of the Lycan** *(Blood Hunter (2022))* — Transformation held barely under control through hemocraft discipline. In Bassuras, a Lycan who loses that control in the wrong neighborhood becomes the kind of incident the [[Court of Dust]] uses to justify expanded enforcement.
-- **Order of the Mutant** *(Blood Hunter (2022))* — Alchemical self-modification, deliberate and costly.
-- **Order of the Ghostslayer** *(Blood Hunter (2022))* — Specialists against a problem that, in Nuxan's ungoverned [[Shadowfell]], is only getting worse.
-- **Order of the Profane Soul** *(Blood Hunter (2022))* — A warlock's pact fused with hunter discipline. The entity backing it is fully aware of what hemocraft does to a body, and chose this anyway.
+- **[[Order of the Lycan]]** *(Blood Hunter (2022))* — Transformation held barely under control through hemocraft discipline. In Bassuras, a Lycan who loses that control in the wrong neighborhood becomes the kind of incident the [[Court of Dust]] uses to justify expanded enforcement.
+- **[[Order of the Mutant]]** *(Blood Hunter (2022))* — Alchemical self-modification, deliberate and costly.
+- **[[Order of the Ghostslayer]]** *(Blood Hunter (2022))* — Specialists against a problem that, in Nuxan's ungoverned [[Shadowfell]], is only getting worse.
+- **[[Order of the Profane Soul]]** *(Blood Hunter (2022))* — A warlock's pact fused with hunter discipline. The entity backing it is fully aware of what hemocraft does to a body, and chose this anyway.
