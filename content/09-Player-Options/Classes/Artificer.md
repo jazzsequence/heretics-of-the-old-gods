@@ -10,6 +10,7 @@ An Artificer in this campaign isn't an eccentric scholar in a comfortable worksh
 
 - **[[Reclaimer]]** *(Campaign homebrew)* — Aeorian ruin-scavenging as a discipline in its own right. A Reclaimer doesn't reverse-engineer ancient tech so much as jury-rig temporary function out of it, drawing on a pool of reclaimed components to replicate spells, item properties, and eventually genuine activations of dead pre-Exodus machinery.
 - **[[Augmented]]** *(Campaign homebrew)* — Arcanotech grafted directly into living tissue. An Augmented remakes their own body region by region — arm, head, legs, core — through elective surgery that can genuinely fail, using a risk-based installation procedure rather than automatic level-up bonuses. The mechanical, engineering answer to a city full of body modification.
+- **[[Machinist]]** *(Campaign homebrew)* — The crawler expert. A Machinist builds, maintains, and pilots a personal rig — a fully-statted vehicle (see [[Rig Rules]]) — sourcing parts nobody else can find and keeping it running through punishment that would strip any other crew of theirs. Their power lives in the machine; separated from it, they're just a mechanic.
 
 ## Available Subclasses
 
