@@ -88,6 +88,10 @@
 
 ## Player Options Reference
 
+### Ancestries
+
+- [[Ancestries]]
+
 ### Classes
 
 | File |
@@ -131,6 +135,7 @@
 
 | File | source |
 | --- | --- |
+| [[Ordnance Expert]] | Campaign homebrew |
 | [[Road Warrior]] | homebrew |
 
 ---
