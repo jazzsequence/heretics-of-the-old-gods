@@ -1,9 +1,10 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import * as ExternalPlugin from "./.quartz/plugins"
 
-// Group the Player Options sidebar into 3 dropdowns: Classes & Subclasses,
-// Races & Lineages, and Feats/Backgrounds/everything else. Purely a sidebar
-// presentation change — no content files move, so no links break.
+// Group the Player Options sidebar into 2 dropdowns: Classes & Subclasses,
+// and Feats/Backgrounds/everything else (which also holds Races & Lineages).
+// Purely a sidebar presentation change — no content files move, so no links
+// break.
 ExternalPlugin.Explorer({
   mapFn: (node: any) => {
     if (!node.isFolder || node.slugSegment !== "09-player-options") return node
@@ -33,7 +34,7 @@ ExternalPlugin.Explorer({
       classAndSubclassSlugs.has(c.slugSegment),
     )
     const featsBackgroundsAndMore = node.children.filter(
-      (c: any) => !classAndSubclassSlugs.has(c.slugSegment) && c.slugSegment !== "ancestries",
+      (c: any) => !classAndSubclassSlugs.has(c.slugSegment),
     )
 
     // Link each virtual group to a real page it contains, rather than a
@@ -67,15 +68,13 @@ ExternalPlugin.Explorer({
     otherGroup.fileSegmentHint = null
     otherGroup.displayNameOverride = "Feats, Backgrounds & More"
 
-    const newChildren: any[] = [classesGroup]
-    if (ancestries) newChildren.push(ancestries)
-    newChildren.push(otherGroup)
+    const newChildren: any[] = [classesGroup, otherGroup]
 
     node.children = newChildren
     return node
   },
   sortFn: (a: any, b: any) => {
-    const groupOrder = ["Classes & Subclasses", "Races & Lineages", "Feats, Backgrounds & More"]
+    const groupOrder = ["Classes & Subclasses", "Feats, Backgrounds & More"]
     const ai = groupOrder.indexOf(a.displayName)
     const bi = groupOrder.indexOf(b.displayName)
     if (ai !== -1 && bi !== -1) return ai - bi
