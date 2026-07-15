@@ -40,34 +40,36 @@ ExternalPlugin.Explorer({
     // synthetic path, so clicking the title (not just the toggle) works.
     const classesFolder = node.children.find((c: any) => c.slugSegment === "classes")
     const featsFolder = node.children.find((c: any) => c.slugSegment === "feats")
-
     const proto = Object.getPrototypeOf(node)
-    const makeGroup = (name: string, linkSlugSegments: string[], children: any[]) => {
-      const group = Object.create(proto)
-      group.children = children
-      group.slugSegments = linkSlugSegments
-      group.data = null
-      group.isFolder = true
-      group.fileSegmentHint = null
-      group.displayNameOverride = name
-      return group
-    }
 
-    const newChildren: any[] = [
-      makeGroup(
-        "Classes & Subclasses",
-        classesFolder ? classesFolder.slugSegments : [...node.slugSegments, "classes"],
-        classesAndSubclasses,
-      ),
-    ]
+    // Inlined rather than a shared helper function: esbuild wraps named
+    // const-bound function expressions in a `__name(...)` call for name
+    // preservation, and that helper doesn't exist when this mapFn's source
+    // is later reconstructed client-side via `new Function(...)`, which
+    // throws and silently empties the entire sidebar.
+    const classesGroup: any = Object.create(proto)
+    classesGroup.children = classesAndSubclasses
+    classesGroup.slugSegments = classesFolder
+      ? classesFolder.slugSegments
+      : [...node.slugSegments, "classes"]
+    classesGroup.data = null
+    classesGroup.isFolder = true
+    classesGroup.fileSegmentHint = null
+    classesGroup.displayNameOverride = "Classes & Subclasses"
+
+    const otherGroup: any = Object.create(proto)
+    otherGroup.children = featsBackgroundsAndMore
+    otherGroup.slugSegments = featsFolder
+      ? featsFolder.slugSegments
+      : [...node.slugSegments, "feats"]
+    otherGroup.data = null
+    otherGroup.isFolder = true
+    otherGroup.fileSegmentHint = null
+    otherGroup.displayNameOverride = "Feats, Backgrounds & More"
+
+    const newChildren: any[] = [classesGroup]
     if (ancestries) newChildren.push(ancestries)
-    newChildren.push(
-      makeGroup(
-        "Feats, Backgrounds & More",
-        featsFolder ? featsFolder.slugSegments : [...node.slugSegments, "feats"],
-        featsBackgroundsAndMore,
-      ),
-    )
+    newChildren.push(otherGroup)
 
     node.children = newChildren
     return node
