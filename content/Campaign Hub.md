@@ -267,8 +267,16 @@
 
 | File | source |
 | --- | --- |
+| [[Arcanotech Augment]] | Campaign homebrew |
+| [[Deathless]] | Campaign homebrew |
+| [[Faithless Devotion]] | Campaign homebrew |
+| [[Fragment-Touched]] | Campaign homebrew |
+| [[Furtive Caster]] | Campaign homebrew |
+| [[Heretic's Null]] | Campaign homebrew |
 | [[Ordnance Expert]] | Campaign homebrew |
 | [[Road Warrior]] | homebrew |
+| [[Unbowed]] | Campaign homebrew |
+| [[Wasteland-Hardened]] | Campaign homebrew |
 
 ---
 
