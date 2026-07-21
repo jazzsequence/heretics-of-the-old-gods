@@ -53,6 +53,7 @@
 | [[Dwendalian Empire]] | governmental | unknown | [[Suria Dwendal II]] | active |
 | [[Kryn Dynasty]] | governmental | hostile | [[Bright Queen Caelestis Kryn]] | active |
 | [[The Court of Dust]] | governmental | unknown |  | active |
+| [[Claret Orders]] | martial | independent |  | active |
 | [[Echoes of the Raven]] | religious | unknown |  | active |
 | [[The Ashari]] | religious |  |  | active |
 | [[The Luxon]] | religious | hostile | [[Bright Queen Caelestis Kryn]] | active |
