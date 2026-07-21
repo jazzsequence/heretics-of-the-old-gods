@@ -75,6 +75,7 @@ Ancestries, classes, subclasses, backgrounds, and feats available in Heretics of
 | [[Storm Domain]] | Cleric | Domain | [[Ur'Shakthu]] | homebrew |
 | [[Survival Domain]] | Cleric | Domain | [[Deshretu]] | homebrew |
 | [[Trickery Domain]] | Cleric | Domain | [[The Traveler]] | PHB 2024 |
+| [[Woebound Domain]] | Cleric | Domain |  | Homebrew — Heretics of the Old Gods |
 | [[Circle of Cataclysms]] | Druid | Circle |  | Scavenger |
 | [[Circle of Preservation]] | Druid | Circle |  | Apocalyptic Subclasses UA |
 | [[Circle of Spores]] | Druid | Circle |  | Guildmasters' Guide to Ravnica / Tasha's Cauldron of Everything |
