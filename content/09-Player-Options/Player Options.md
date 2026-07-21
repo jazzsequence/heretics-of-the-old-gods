@@ -155,13 +155,10 @@ Ancestries, classes, subclasses, backgrounds, and feats available in Heretics of
 | [[School of Biomancy]] | Wizard | School |  | Heliana's Guide to Monster Hunting |
 | [[School of Bladesinging]] | Wizard | School |  | PHB 2024 |
 | [[School of Blood Magic]] | Wizard | School |  | Tal'Dorei Campaign Setting Reborn |
-| [[School of Chronurgy]] | Wizard | School |  | Explorer's Guide to Wildemount |
-| [[School of Divination]] | Wizard | School |  | PHB 2024 |
-| [[School of Evocation]] | Wizard | School |  | PHB 2024 |
-| [[School of Graviturgy]] | Wizard | School |  | Explorer's Guide to Wildemount |
-| [[School of Illusion]] | Wizard | School |  | PHB 2024 |
-| [[School of Necromancy]] | Wizard | School |  | PHB 2024 |
+| [[School of Dunamancy]] | Wizard | School |  | Homebrew (merges Chronurgy + Graviturgy, EGW) |
 | [[School of Occultism]] | Wizard | School |  | The Crooked Moon |
+| [[School of Ruin]] | Wizard | School |  | Homebrew (merges Evocation + Necromancy, PHB 2024) |
+| [[School of the Unseen]] | Wizard | School |  | Homebrew (merges Divination + Illusion, PHB 2024) |
 
 ## Backgrounds
 
@@ -188,6 +185,7 @@ Ancestries, classes, subclasses, backgrounds, and feats available in Heretics of
 | [[Fragment-Touched]] | Campaign homebrew |
 | [[Furtive Caster]] | Campaign homebrew |
 | [[Heretic's Null]] | Campaign homebrew |
+| [[Lost Art Feats]] |  |
 | [[Ordnance Expert]] | Campaign homebrew |
 | [[Road Warrior]] | Campaign homebrew |
 | [[Unbowed]] | Campaign homebrew |
