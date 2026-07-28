@@ -58,7 +58,6 @@
 | [[The Ashari]] | religious |  |  | active |
 | [[The Luxon]] | religious | hostile | [[Bright Queen Caelestis Kryn]] | active |
 | [[The Verdant Covenant]] | religious | unknown |  | active |
-| [[Whispered Rebellion]] | religious | unknown |  | active |
 | [[The Empty Archive]] | scholarly | unknown |  | active |
 
 ---
