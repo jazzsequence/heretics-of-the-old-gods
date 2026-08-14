@@ -16,7 +16,6 @@
 
 | File | session_number | real_date | attendees | recap_link |
 | --- | --- | --- | --- | --- |
-| [[Session Index]] |  |  |  |  |
 
 ---
 

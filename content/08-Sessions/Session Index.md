@@ -5,7 +5,6 @@
 
 | File | session_number | fc-date | real_date | attendees | recap_link |
 | --- | --- | --- | --- | --- | --- |
-| [[Session Index]] |  |  |  |  |  |
 
 ---
 
@@ -13,7 +12,6 @@
 
 | File | session_number | fc-date |
 | --- | --- | --- |
-| [[Session Index]] |  |  |
 
 ---
 

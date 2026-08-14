@@ -30,4 +30,4 @@ Of the twelve known Luxon beacons, the Kryn Dynasty currently holds ten. The rem
 
 
 
-The beacon collection operation is the true engine of the Consecution War. The Bright Queen does not know the nature of the entity the ritual will produce. She believes she is summoning a god. See [[10-Campaign-Plot/03-Climax.md]] for full detail.
+The beacon collection operation is the true engine of the Consecution War. The Bright Queen does not know the nature of the entity the ritual will produce. She believes she is summoning a god. See [[03-Climax]] for full detail.
