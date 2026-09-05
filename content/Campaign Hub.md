@@ -49,6 +49,7 @@
 | File | category | disposition | leader | status |
 | --- | --- | --- | --- | --- |
 | [[The Garrotte Line]] | criminal | unknown |  | active |
+| [[The Weathered]] | cultural | neutral |  | active |
 | [[Dwendalian Empire]] | governmental | unknown | [[Suria Dwendal II]] | active |
 | [[Kryn Dynasty]] | governmental | hostile | [[Bright Queen Caelestis Kryn]] | active |
 | [[The Court of Dust]] | governmental | unknown |  | active |

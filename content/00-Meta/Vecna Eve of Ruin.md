@@ -1,6 +1,11 @@
-**Publisher:** Wizards of the Coast, 2024 — D&D's 50th anniversary adventure, levels 11–20. Vecna, having stolen the multiverse-spanning power of the Rod of Seven Parts, attempts to erase and remake all of existence. 
-The adventure is a multiversal crawl through several D&D settings (Ravenloft's Barovia, Spelljammer, Dragonlance, Forgotten Realms, Eberron, and Sigil/the Outer Planes via [[Planescape]]), culminating in a final confrontation with Vecna.
+**Publisher:** Wizards of the Coast, 2024 — D&D's 50th-anniversary adventure, levels 10–20.
 
-The culminating adventure of Exandria Revisited,
+**Vecna's plan:** Vecna traverses the multiverse gathering **secrets**, and uses their accumulated power to cast the **Ritual of Remaking** to unmake and remake all of existence. His power source is secrets — not any single artifact.
 
-Reference: [dnd.wizards.com](https://dnd.wizards.com)
+**The Rod of Seven Parts (the trap):** Lady Alustriel Silverhand marshals allies — Tasha and Mordenkainen — intending to cast a *Wish* spell to dispel Vecna's gathered secrets and render the Ritual of Remaking useless. But "Mordenkainen" is actually **Kas the Betrayer**, disguised with the **Crown of Lies**. Kas sabotages the *Wish* and convinces the group to reassemble the **Rod of Seven Parts** instead, falsely claiming it is the only way to stop Vecna. In truth, Kas wants the assembled Rod to **free the demon lord Miska the Wolf-Spider** — his ally, imprisoned in Pandemonium — so the two can kill Vecna and Kas can usurp the ritual. The Rod is never Vecna's, and it never powers the Ritual of Remaking.
+
+**Structure:** A multiversal crawl to collect the seven rod pieces across settings (Forgotten Realms/Underdark, Spelljammer/Astral Sea, Eberron/Mournland, Ravenloft's Barovia, Dragonlance's Krynn, Greyhawk/Oerth, and Avernus via [[Planescape]]). In Ch. 9 Kas reveals himself, steals the reassembled Rod, and flees to Pandemonium to free Miska (Ch. 10); the party stops both Kas and Vecna's Ritual of Remaking in the Cave of Shattered Reflection (Ch. 11).
+
+**HotOG relevance:** The culminating adventure of [[Exandria Revisited]]. Briar (ER PC; tracked in Notion) ended ER in possession of the **fully assembled Rod of Seven Parts**, which she later merged into a Luxon beacon — the "Beacon of 7,000 parts." What the Rod contributes to the beacon is its **Law / perfect-preservation (fixity)**: it preserves bound souls perfectly and locks forms against change. Its Miska-prison-key function is inert on Nuxan — a key does nothing without its lock, and Miska's prison is in Pandemonium (the Outer Planes), not the Material Plane. So only the fixity carries into the [[The Luxon|Luxon]] beacon-hunt 1000 years later.
+
+Reference: [dnd.wizards.com](https://dnd.wizards.com); 5eTools VEoR
